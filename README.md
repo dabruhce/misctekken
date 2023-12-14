@@ -33,7 +33,7 @@
 - `db4`: i20, +4f, RC, CH combos.
 - `b1f`: i14, to perf stance.
 - `b12`: i14, side switch KND to opp FDFT.
-- `b2`: i12, +2f hit
+- `b2`: i12, +2f hit, parry
 - `b31`: i17, mm, 40 dmg, NC, KND, +21/+16 oki
 - `b4`: i18, H homing, +13 guardable, wall splats.
 - `b1+2`: i15, h, HE, armor, chip
