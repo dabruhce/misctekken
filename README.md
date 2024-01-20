@@ -23,7 +23,7 @@
 - `df4,1+2`: i13, goes into stance at +6 on hit.
 - `d11`: i16, LH, +6 on hit.
 - `d2`: i18, m, HE, chip, high crush 
-- `db4`: i20, L, CH launch.
+- `db4`: i20, L, CH launch, high crush
 - `d3`: i18, l, -2f
 - `d4`: i16, l, -3f on hit, CH 30 dam knd +0f fuft
 - `d1+2`: i19, sm, KND ground punch, chip, ch launch
