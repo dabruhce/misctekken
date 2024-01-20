@@ -42,7 +42,7 @@
 - `u11`: 13f, mid, recovers stand/crouch/relic, +15 KND.
 - `uf2`: i19, mid homing, +7 hit
 - `uf3`: i18, mid, +3 on hit.
-- `uf4`: i15, hopkick, +16 blk
+- `uf4`: i15, hopkick, -16 blk
 - `ff2`: i18, NH launcher, hits grounded, chip
 - `fff2`: i16, mid, KND, chip, ch launch?
 - `qcf2`: i22, high, +4 on hit, transition RLC, chip.
