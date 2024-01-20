@@ -12,7 +12,7 @@
 - `1+2`: i15, +2 on hit, ch launch
 - `f2211`: i13
 - `f222`: i13
-- `f41`: i14, mh, he
+- `f41`: i14, mh, he +17f, 36 dam,
 - `f42`: i14, mm, overhead, opp rc
 - `f1+2`: i24, HE overhead, chip, restores heat
 - `df11`: i13, MH.
@@ -26,7 +26,7 @@
 - `db4`: i20, L, CH launch, high crush
 - `d3`: i18, l, -2f
 - `d4`: i16, l, -3f on hit, CH 30 dam knd +0f fuft
-- `d1+2`: i19, sm, KND ground punch, chip, ch launch
+- `d1+2`: i19, sm, KND ground punch, chip, ch ?
 - `db11`: i14.
 - `db1+2`: i28, m, overhead knd, heat consumes 1 bar, ends rlc
 - `db3`: i19, KND kick, ch tornado, high crush
@@ -44,7 +44,7 @@
 - `uf3`: i18, mid, +3 on hit.
 - `uf4`: i15, hopkick, -16 blk
 - `ff2`: i18, NH launcher, hits grounded, chip
-- `fff2`: i16, mid, KND, chip, ch launch?
+- `fff2`: i16, mid, KND, chip, ch ?
 - `qcf2`: i22, high, +4 on hit, transition RLC, chip.
 - `bb3+2`: i65, UB, overhead slash
 - `ubb`: Teleport.
