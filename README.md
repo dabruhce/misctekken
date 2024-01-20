@@ -29,7 +29,7 @@
 - `d1+2`: i19, sm, KND ground punch, chip, ch launch
 - `db11`: i14.
 - `db1+2`: i28, m, overhead knd, heat consumes 1 bar, ends rlc
-- `db3`: i19, KND kick.
+- `db3`: i19, KND kick, ch tornado, high crush
 - `db4`: i20, +4f, RC, CH combos.
 - `b1f`: i14, to perf stance.
 - `b12`: i14, nc, 31 dam, side switch KND to opp FDFT +0.
